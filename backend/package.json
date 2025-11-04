@@ -6,6 +6,7 @@
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js",
+    "build": "echo 'No build step required'",
     "test:apis": "node test-all-apis.js",
     "debug": "node debug-test.js",
     "debug:team": "node debug-team.js"
