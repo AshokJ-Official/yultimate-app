@@ -1,0 +1,8 @@
+{
+  "/not-found": "app/not-found.js",
+  "/reports/page": "app/reports/page.js",
+  "/social-media/page": "app/social-media/page.js",
+  "/children/page": "app/children/page.js",
+  "/export/page": "app/export/page.js",
+  "/dashboard/page": "app/dashboard/page.js"
+}
